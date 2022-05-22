@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\Game.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\mushroom\Circle.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\mushroom\Direction.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\mushroom\GameCourt.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\mushroom\GameObj.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\mushroom\Poison.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\mushroom\RunMushroomOfDoom.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\mushroom\Square.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\Apple.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\Direction.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\GameCourt.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\GameGrid.java">
+<error line="7" column="30" severity="warning" message="Name &apos;r&apos; must match pattern &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+<error line="8" column="30" severity="warning" message="Name &apos;c&apos; must match pattern &apos;^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck"/>
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\GameObj.java">
+<error line="51" column="18" severity="warning" message="Variable &apos;position&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\Ghost.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\RunSnake.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\SnakeBody.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\SnakePart.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\snake\Tests.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\tictactoe\GameBoard.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\tictactoe\RunTicTacToe.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\main\java\org\cis120\tictactoe\TicTacToe.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\test\java\org\cis120\CompilationTest.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\test\java\org\cis120\mushroom\GameTest.java">
+</file>
+<file name="C:\Users\quinn\Documents\Penn Documents\CIS120 Work\hw09_local\hw09_local_temp\src\test\java\org\cis120\tictactoe\GameTest.java">
+</file>
+</checkstyle>
